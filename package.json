@@ -6,7 +6,7 @@
   "scripts": {
     "commit": "cz",
     "prepare": "husky install",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Running tests... No tests available!\""
   },
   "repository": {
     "type": "git",
