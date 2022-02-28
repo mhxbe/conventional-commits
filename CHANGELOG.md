@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/mhxbe/conventional-commits/compare/v1.1.0...v2.0.0) (2022-02-28)
+
+
+### ⚠ BREAKING CHANGES
+
+* **deps:** DatePicker has a different API
+
+### Features
+
+* **deps:** major bump of component library ([10a7e59](https://github.com/mhxbe/conventional-commits/commit/10a7e59d52591782b7766c9b2217d130ce3e17b9))
+* feature ([24c2748](https://github.com/mhxbe/conventional-commits/commit/24c27485e67959206e017710ca99f46b6179977e))
+
+
+### Bug Fixes
+
+* add removeEventListner to scroll in sidebar ([29bc502](https://github.com/mhxbe/conventional-commits/commit/29bc50297e3ffa30ec5db0c017cc9fff5523522a))
+
 ## 1.1.0 (2022-02-27)
 
 
