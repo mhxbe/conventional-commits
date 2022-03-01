@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.0.0](https://github.com/mhxbe/conventional-commits/compare/v2.0.0...v3.0.0) (2022-03-01)
+
+
+### ⚠ BREAKING CHANGES
+
+* yes
+
+* super styling ([ee048ff](https://github.com/mhxbe/conventional-commits/commit/ee048ffd544524f3d0e485f9d4e25ba0daeb0cb9))
+
 ## [2.0.0](https://github.com/mhxbe/conventional-commits/compare/v1.1.0...v2.0.0) (2022-02-28)
 
 
