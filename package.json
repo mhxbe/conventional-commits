@@ -20,6 +20,10 @@
     "url": "https://github.com/mhxbe/conventional-commits/issues"
   },
   "homepage": "https://github.com/mhxbe/conventional-commits#readme",
+  "engines": {
+    "node": ">=16.15.0",
+    "npm": ">=8.5.5"
+  },
   "devDependencies": {
     "@commitlint/cli": "16.3.0",
     "@commitlint/config-conventional": "16.2.4",
